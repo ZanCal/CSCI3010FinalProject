@@ -1,6 +1,5 @@
 # CSCI3010FinalProject
 A mosh pit simulation
-CSCI 3010U Project Proposal: Mosh Pits
 
 Team Members: John Nemec 100656634
 
