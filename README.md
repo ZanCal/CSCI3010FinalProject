@@ -1,4 +1,4 @@
-# CSCI3010FinalProject
+# CSCI3010 Final Project
 A mosh pit simulation
 
 Team Members: John Nemec 100656634
