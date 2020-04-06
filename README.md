@@ -15,3 +15,5 @@ There are a large portion of stretch goals, which include additional functionali
  - Various songs (as BPM (beats per minute) can influence the nature of a mosh pit)
 
 An important distinction to make is the differences in metal mosh pits and EDM (electronic dance music) mosh pits. EDM mosh pits are far more structured than metal mosh pits, as EDM tends to follow more of a build up / drop structure, while metal follows a more chaotic structure. Aside from typical research methods, research for metal mosh pits is primarily based on personal experience, while research for EDM mosh pits is primarily based on consultation with active members of the EDM community. 
+
+[![Run on Repl.it](https://repl.it/badge/github/ZanCal/CSCI3010FinalProject)](https://repl.it/github/ZanCal/CSCI3010FinalProject)
